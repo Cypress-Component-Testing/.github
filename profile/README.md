@@ -16,7 +16,7 @@ If you are tired of flaky waits and slow feedback, **Cypress** is for you.
 
 Searches such as Cypress end-to-end testing, Cypress component testing, and Cypress test runner usually point to the same goal: tests you can trust. Cypress keeps that process clear. Write a spec, run it in the runner, and review a timeline that shows every step and assertion.
 
-![Cypress](https://avatars.mds.yandex.net/i?id=408c0127748f5440381c36d7235e58ab1fd0bb1e-5288850-images-thumbs&n=13)
+![Cypress](https://avatars.mds.yandex.net/i?id=776552994043df4ac64ef9699b7f2731_l-9068689-images-thumbs&n=13)
 
 For teams with many flows, Cypress end-to-end testing turns scattered checks into a dependable structure. Login paths, checkout flows, and API stubs sit side by side, with fixtures, custom commands, and retries in the same spec. Cypress component testing stays readable, so a first mount finishes before advanced options are needed.
 
